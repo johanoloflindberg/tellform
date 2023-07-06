@@ -7,7 +7,7 @@
 # Compose:
 # docker-compose up -d
 
-FROM       ubuntu:latest
+FROM       ubuntu:kinetic
 MAINTAINER David Baldwynn <team@tellform.com>
 
 WORKDIR ~/Documents/tellform
