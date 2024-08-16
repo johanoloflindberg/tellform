@@ -21,7 +21,7 @@
     "postinstall": "node node_modules/.bin/bower install --config.interactive=false; node node_modules/.bin/grunt build"
   },
   "dependencies": {
-    "bower": "~1.6.5",
+    "bower": "~1.8.9",
     "grunt": "~0.4.1",
     "grunt-cli": "~0.1.13",
     "grunt-contrib-cssmin": "~0.14.0",
