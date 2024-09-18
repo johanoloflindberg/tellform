@@ -38,7 +38,7 @@
     "dotenv": "^2.0.0",
     "email-verification": "~0.4.1",
     "envfile": "^2.0.1",
-    "express": "~4.13.3",
+    "express": "~4.20.0",
     "express-device": "~0.4.2",
     "express-session": "~1.12.1",
     "forever": "~0.15.1",
