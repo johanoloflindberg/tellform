@@ -41,7 +41,7 @@
     "express": "~4.13.3",
     "express-device": "~0.4.2",
     "express-session": "~1.12.1",
-    "forever": "~0.15.1",
+    "forever": "~3.0.4",
     "fs-extra": "~0.26.2",
     "grunt": "~0.4.1",
     "grunt-cli": "~0.1.13",
