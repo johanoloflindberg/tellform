@@ -7,7 +7,7 @@
 # Compose:
 # docker-compose up -d
 
-FROM       ubuntu:latest
+FROM       ubuntu:24.10
 MAINTAINER David Baldwynn <team@tellform.com>
 
 WORKDIR ~/Documents/tellform
